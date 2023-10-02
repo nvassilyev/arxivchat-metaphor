@@ -20,4 +20,4 @@ User then chooses a paper out of the provided results for chatting. The entire c
 
 ### Why I'm interested in Metaphor 😁
 
-I think Metaphor has a really good chance at becoming the primary tool used in LLM applications or in retrieval-augmented generation. LLMs suffer from hallucinations and outdated training data, and so having an internet-connected search tool optimized for these models can significantly mitigate these challenges. I would love to part of the team and contribute towards this goal!
+I think Metaphor can become the primary tool used in LLM applications or in retrieval-augmented generation. LLMs suffer from hallucinations and outdated training data, and so having an internet-connected search tool optimized for these models can significantly mitigate these challenges. I would love to be part of the team and contribute towards this goal!
