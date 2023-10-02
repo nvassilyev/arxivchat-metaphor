@@ -1,0 +1,2 @@
+export OPENAI_API_KEY="your_openai_api_key_here"
+export METAPHOR_API_KEY="your_metaphor_api_key_here"

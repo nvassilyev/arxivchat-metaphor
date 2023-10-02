@@ -1,0 +1,7 @@
+langchain
+chromadb
+unstructured
+openai
+fitz
+tiktoken
+alive_progress

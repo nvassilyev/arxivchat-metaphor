@@ -1,0 +1,11 @@
+{
+    "summarize_abstract": "Please summarize the following abstract portion of a paper from arxiv. Summarize in point form in a clear and concise manner and provide no more than 3 points at most. Please only output the points and nothing else. Use '-' to separate points.",
+    "rank_papers": "Rank the following papers based on their titles and brief summaries in order of relevance to a user query, with the most relevant paper ranked first. Please only output ONE NUMBER, the number of the top ranking paper and provide NOTHING else!",
+    "commands": "Type 'q' to exit app or 's' for a new paper search.",
+    "welcome": "Welcome to the ArXivChat (Powered by METAPHOR and OPENAI)! Please feel free to ask any questions or start a conversation about the paper you're interested in. I'm here to help you explore and understand its content!",
+    "exit": "Thank you for using ArXivChat!",
+    "choose_paper": "Please choose a number from the selected papers to learn more about it or press enter to choose CHATGPT recommended paper.",
+    "action_list": ["q", "s", "1", "2", "3", "4", "5", ""],
+    "search_instruction": "Please enter a search query to find a paper of interest.",
+    "begin_chat": "You can start chatting with the paper by asking questions, discussing key points, or exploring any topics of interest. Feel free to interact with the paper as if you were having a conversation with it."
+}
