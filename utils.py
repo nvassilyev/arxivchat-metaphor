@@ -13,11 +13,8 @@ import os
 import openai
 import tiktoken
 
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-# metaphor = Metaphor(os.getenv("METAPHOR_API_KEY"))
-
-openai.api_key = "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"
-metaphor = Metaphor("ce19645b-9b03-4321-bd44-31050f7e1616")
+openai.api_key = os.getenv("OPENAI_API_KEY")
+metaphor = Metaphor(os.getenv("METAPHOR_API_KEY"))
 
 with open("prompts.json", 'r') as json_file:
     prompts = json.load(json_file)
